@@ -2,5 +2,5 @@ cd ~/robomedicoes
 git init
 git add robomedicoes.py
 git commit -m "primeiro commit"
-git remote add origin https://github.com/SEU_USUARIO/robomedicoes.git
+git remote add origin https://github.com/vilmarlopes/robomedicoes.git
 git push -u origin master
